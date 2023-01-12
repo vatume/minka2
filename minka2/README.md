@@ -1,6 +1,6 @@
 # minka2
 
-A new Flutter project.
+A new Flutter project. Looking to develop an ecomerce app to offer some food products from a farm
 
 ## Getting Started
 
